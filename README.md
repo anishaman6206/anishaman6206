@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I’m Anish</h1>
-<h3 align="center">Aspiring Data Scientist | Final Year at IIT Kharagpur</h3>
+<div align="center">
+  <h1>Hi 👋, I’m Anish</h1>
+  <h3>Aspiring Data Scientist | Final Year at IIT Kharagpur</h3>
+</div>
 
 <p align="center">
     <em>
@@ -8,24 +10,6 @@
     I strive to transform complex datasets into actionable insights and  
     meaningful solutions that contribute to building a smarter tomorrow.
   </em>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anishaman6206&label=Visitors&color=0e75b6&style=flat-square" alt="profile views" /> 
-</p>
-
----
-
-### 🌐 Connect with me  
-<p align="center">
-  <a href="https://linkedin.com/in/anish-aman-098590209" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/anishaman_07" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -39,6 +23,8 @@
 
 ### 📊 GitHub Stats  
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anishaman6206&label=Profile%20views&color=0e75b6&style=flat" alt="anishaman6206" /> </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anishaman6206&show_icons=true&theme=tokyonight&hide_border=false&card_width=400" alt="stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=anishaman6206&theme=tokyonight&hide_border=false" alt="streak" height="150"/>
@@ -50,5 +36,15 @@
 
 ---
 
-### 📫 How to reach me  
-<p align="center"><b>📧 anishaman6206@gmail.com</b></p>
+### 🌐 Connect with Me  
+<p align="center">
+  <a href="mailto:anishaman6206@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/anish-aman-098590209" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/anishaman_07" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
