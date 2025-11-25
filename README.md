@@ -45,7 +45,11 @@
   <a href="https://linkedin.com/in/anish-aman-098590209" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/anishaman_07" target="blank">
+  <a href="https://instagram.com/mlsketchbook_1" target="blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://medium.com/@anishaman6206" target="blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
+
