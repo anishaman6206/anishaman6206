@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I’m Anish</h1>
-  <h3>Aspiring Data Scientist | Final Year at IIT Kharagpur</h3>
+  <h3>Data Scientist Enthusiast | Technology Analyst @ Wells Fargo | Passout @ IIT Kharagpur</h3>
 </div>
 
 <p align="center">
